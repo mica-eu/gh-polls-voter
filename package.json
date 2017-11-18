@@ -1,0 +1,33 @@
+{
+  "name": "gh-polls-voter",
+  "version": "0.0.1",
+  "description": "Automated votes for gh-polls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelsouza/gh-polls-voter.git"
+  },
+  "keywords": [
+    "poll",
+    "polls",
+    "gh",
+    "gh-polls",
+    "gh-poll",
+    "apex",
+    "up"
+  ],
+  "author": "micaelsouza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micaelsouza/gh-polls-voter/issues"
+  },
+  "homepage": "https://github.com/micaelsouza/gh-polls-voter#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "colors": "^1.1.2",
+    "faker": "^4.1.0"
+  }
+}
